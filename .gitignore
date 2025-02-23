@@ -2,4 +2,3 @@ venv
 __pycache__
 fpl_data_cache.json
 profile_results
-.gitignore
